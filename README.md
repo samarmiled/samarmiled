@@ -4,7 +4,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/samarmiled/jsonAnimation/blob/main/Animation%20-%20samar.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/samarmiled/jsonAnimation/blob/main/Animation%20-%20samar.gif" alt="adam-pw" width="400px"/></p>
 
 
 - 🔭 I’m currently working in NNA RESSOURCES.
